@@ -1,6 +1,7 @@
 # SNU RAG Chatbot
-RAG based chatbot to deal with school rules related questions of Seoul National University
-Done as a part of Creative Integrated Design2 Class
+RAG based chatbot to deal with school rules related questions of Seoul National University.
+
+Done as a part of Creative Integrated Design2 Class.
 
 ## UI and Demo
 ![UI](./assets/ui1.png)

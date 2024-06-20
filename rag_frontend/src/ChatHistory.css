@@ -1,0 +1,13 @@
+.chat-bubble {
+    max-width: 60%;
+    border-radius: 15px;
+  }
+  
+  .question-bubble {
+    background-color: #f1f0f0;
+  }
+  
+  .answer-bubble {
+    background-color: #007bff;
+    color: white;
+  }
